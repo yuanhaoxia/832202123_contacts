@@ -1,0 +1,51 @@
+
+
+//主题3
+$--color-primary: #366ef4;  /* 蓝色 */
+
+/* 成功色 */
+$--color-success: #2ba471;
+
+/* 警告色 */
+$--color-warning: #e37318;
+
+/* 危险色 */
+$--color-danger: #d54941; 
+
+/* 信息色 */
+$--color-info: #c5c5c5;
+
+
+//字体
+.color-primary{
+    color: $--color-primary;
+}
+.color-success{
+    color: $--color-success;
+}
+.color-warning{
+    color: $--color-warning;
+}
+.color-danger{
+    color: $--color-danger;
+}
+.color-info{
+    color: $--color-info;
+}
+
+//背景
+.bg-primary{
+    background: $--color-primary;
+}
+.bg-success{
+    background: $--color-success;
+}
+.bg-warning{
+    background: $--color-warning;
+}
+.bg-danger{
+    background: $--color-danger;
+}
+.bg-info{
+    background: $--color-info;
+}
