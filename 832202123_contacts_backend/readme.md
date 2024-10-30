@@ -6,3 +6,6 @@ This is the backend part of the contact management project, built on Spring Boot
 ## Environment Requirements
 - JDK 1.8
 - MySQL Database
+
+## File Description
+The src folder contains controller, dao, entity, service, and the main application.
