@@ -1,6 +1,5 @@
 # Code Style Guide
-Follow Alibaba Java Coding Guidelines
-source: <https://github.com/alibaba/Alibaba-Java-Coding-Guidelines>
+Follow Alibaba Java Coding Guidelines (source: <https://github.com/alibaba/Alibaba-Java-Coding-Guidelines>)
 
 
 
