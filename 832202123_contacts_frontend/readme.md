@@ -6,3 +6,6 @@ This is the frontend part of the contact management project, built on Vue.js. Th
 ## Environment Requirements
 - Node.js 
 - npm
+
+## File Description
+The folder contains api, assets, and views.
