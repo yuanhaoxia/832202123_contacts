@@ -1,6 +1,8 @@
-# 通讯录后端项目
-## 项目介绍
-这是通讯录项目的后端部分，基于 Spring Boot 构建，使用 MySQL 作为数据库。项目实现了用户注册、登录、联系人管理等功能，并提供了管理员管理接口。
-## 环境要求
+# Contact Management Backend Project
+
+## Project Introduction
+This is the backend part of the contact management project, built on Spring Boot and using MySQL as the database. The project implements user registration, login, contact management, and provides administrative management interfaces.
+
+## Environment Requirements
 - JDK 1.8
-- MySQL 数据库
+- MySQL Database
